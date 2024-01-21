@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background:  #aaa;
+    width: 140px;
+    height: 80px;
+    padding: 30px;
+    border: 10px solid #111;
+    margin: 30px;
+}
